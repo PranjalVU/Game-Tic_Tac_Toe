@@ -15,12 +15,14 @@ This is a simple Tic-Tac-Toe game built using Python and Tkinter. The game allow
 python main.py
 
 **Requirements**
-Python 3.x
-Tkinter library
+1. Python 3.x
+2. Tkinter library
 
 **Future Enhancements**
-Add sound effects
-Implement score tracking
+1. Add sound effects
+2. Implement score tracking
+
+
 Enjoy the game! 🎯
 
 
